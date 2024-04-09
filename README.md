@@ -1,0 +1,7 @@
+- Hi, I’m RADHESA P L
+- I’m interested in VLSI, Chip Design, coding  in C, C++, Java, Python
+-  I’m currently learning to be expertise in Java, Javascript
+- I'm aspiring to do projects frequently and have designed snakes and ladders game, kmap n variable solver, gaussian inverse n variable calculator
+- I've solved so many about 500 problamatic questions in coding aspect in all coding languages
+- I've attaches my some of the project repositories so have a check on it
+- Thanks for visiting...
